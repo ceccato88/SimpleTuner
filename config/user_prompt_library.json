@@ -1,10 +1,10 @@
 {
-    "portrait_<token>": "a professional portrait photograph of <token> with natural lighting, high quality, detailed features",
-    "casual_<token>": "a casual, candid photograph of <token> in everyday clothing, natural pose, soft lighting",
-    "artistic_<token>": "an artistic portrait of <token> with dramatic lighting and creative composition, professional photography",
-    "cinematic_<token>": "a cinematic portrait photograph of <token> with movie-style lighting and depth of field",
-    "studio_<token>": "a studio portrait of <token> with professional lighting setup, clean background, high resolution",
-    "outdoor_<token>": "an outdoor portrait of <token> in natural environment, golden hour lighting, beautiful scenery",
-    "close_up_<token>": "a close-up portrait focusing on the facial features of <token>, sharp details, professional quality",
-    "full_body_<token>": "a full-body portrait photograph of <token> standing naturally, good proportions, clear details"
+    "portrait_IVAN02011988": "a professional portrait photograph of IVAN02011988 with natural lighting, high quality, detailed features",
+    "casual_IVAN02011988": "a casual, candid photograph of IVAN02011988 in everyday clothing, natural pose, soft lighting",
+    "artistic_IVAN02011988": "an artistic portrait of IVAN02011988 with dramatic lighting and creative composition, professional photography",
+    "cinematic_IVAN02011988": "a cinematic portrait photograph of IVAN02011988 with movie-style lighting and depth of field",
+    "studio_IVAN02011988": "a studio portrait of IVAN02011988 with professional lighting setup, clean background, high resolution",
+    "outdoor_IVAN02011988": "an outdoor portrait of IVAN02011988 in natural environment, golden hour lighting, beautiful scenery",
+    "close_up_IVAN02011988": "a close-up portrait focusing on the facial features of IVAN02011988, sharp details, professional quality",
+    "full_body_IVAN02011988": "a full-body portrait photograph of IVAN02011988 standing naturally, good proportions, clear details"
 }
