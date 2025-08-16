@@ -31,7 +31,7 @@
     "--validation_guidance": 3.0,
     "--validation_guidance_rescale": "0.0",
     "--validation_num_inference_steps": "20",
-    "--validation_prompt": "A high-quality portrait photograph of a person with natural lighting and sharp focus",
+    "--validation_prompt": "A high-quality portrait photograph of IVAN02011988 with natural lighting and sharp focus",
     "--user_prompt_library": "config/user_prompt_library.json",
     "--mixed_precision": "bf16",
     "--optimizer": "adamw_bf16",
